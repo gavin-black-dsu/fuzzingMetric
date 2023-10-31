@@ -1,3 +1,10 @@
+In-progress
+
+Files:
+* resourceExtraction.ipynb: Tool for creating supervised learning labels based on resource captures
+* gaussian.ipynb: Taking single resource values and finding variance as an approximation of fuzzer ability
+* modelTraining.ipynb: Train a prediction model used for anomaly detection comparisons
+
 Artifacts for the fuzzing metric paper
 
 Network resource capturing assumes the ability to use tcpdump.
